@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/legentwealth/static/css/main.073c9b0a.css",
+    "main.js": "/legentwealth/static/js/main.3b9c1890.js",
+    "static/js/787.7be3f431.chunk.js": "/legentwealth/static/js/787.7be3f431.chunk.js",
+    "static/media/logo.svg": "/legentwealth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/legentwealth/index.html",
+    "main.073c9b0a.css.map": "/legentwealth/static/css/main.073c9b0a.css.map",
+    "main.3b9c1890.js.map": "/legentwealth/static/js/main.3b9c1890.js.map",
+    "787.7be3f431.chunk.js.map": "/legentwealth/static/js/787.7be3f431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b9c1890.js"
+  ]
+}
